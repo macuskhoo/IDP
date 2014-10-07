@@ -1,0 +1,62 @@
+/* 
+    Document   : login
+    Created on : 21-Sep-2013, 14:50:55
+    Author     : macus.khoo.2012
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#Wrapper {
+	width :1012px;
+	margin-left:auto; 
+	margin-right:auto;
+        margin-top: 0px;
+}
+#Header{
+	width: 1012px;
+	height: 80px;
+}
+#Header1 {
+	background-image: url(../images/Picture_03.gif);
+	width:296px;
+	height: 80px;	
+	float: left;
+}
+
+#Header2{
+	background-image: url(../images/Picture_04.gif);
+	width: 716px;
+	height: 80px;
+	float: right;
+}
+#Header3{
+	background-image: url(../images/Picture_06.gif);
+	width: 1012px;
+	height: 13px;
+}
+#Body{
+	background-image: url(../images/Picture_07.gif);
+	width: 1012px;
+	height: 300px;
+}
+#Content{
+	background-image: url(../images/Picture_10.gif);
+	height: 207px;
+	width: 680px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#Image-Button{
+	background: url(../images/images.jpg) no-repeat top left;
+    padding-left: 16px;
+    height: 29px;	
+	width: 107px;
+	margin-left:110px;
+}
+#Footer{
+	background-image: url(../images/Picture_13.gif);
+	width: 1012px;
+	height: 10px;
+}
+

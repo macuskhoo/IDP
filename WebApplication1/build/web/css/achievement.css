@@ -1,0 +1,44 @@
+/* 
+    Document   : achievement
+    Created on : Oct 6, 2014, 11:51:19 PM
+    Author     : macus.khoo.2012
+    Description:
+        Purpose of the stylesheet follows.
+*/
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#achievementTop {
+    height:80px;
+    background-color:grey;
+    margin-left:0px;
+    margin-top:0px;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+#title{
+    margin-left:100px;
+}
+.dropdown{
+    float:right;
+    margin-right:90px;
+    margin-top:20px;
+    padding-top:0px;
+    padding-bottom:0px
+}
+
+#homeRedirect{
+    float:left;
+    cusor:pointer;
+    background-image:url(../images/home.jpg);
+    height:50px;
+    width:50px;
+    margin-left:0px;
+    margin-top:10px;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+
