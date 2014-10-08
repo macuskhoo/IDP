@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link href="css/achievement.css" rel="stylesheet" type = "text/css">
+        <link href="css/main.css" rel="stylesheet" type = "text/css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
         <!-- Optional theme -->
@@ -22,9 +22,7 @@
         <title>Achievements</title>
     </head>
     <body>
-        <div id="achievementTop">
-
-
+        <div id="top">
             <div id="title" align="center">
                 <font size="10" color ="white" face="verdana"><b>Achievements</b></font>
                 <div class="dropdown">

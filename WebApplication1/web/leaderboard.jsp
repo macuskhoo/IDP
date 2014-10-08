@@ -1,6 +1,6 @@
 <%-- 
-    Document   : achievements
-    Created on : Oct 6, 2014, 11:44:42 PM
+    Document   : leaderboard
+    Created on : Oct 8, 2014, 2:01:12 AM
     Author     : macus.khoo.2012
 --%>
 
@@ -19,12 +19,12 @@
         <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.1.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-        <title>Achievements</title>
+        <title>Leaderboard</title>
     </head>
     <body>
         <div id="top">
             <div id="title" align="center">
-                <font size="10" color ="white" face="verdana"><b>Achievements</b></font>
+                <font size="10" color ="white" face="verdana"><b>Leaderboard</b></font>
                 <div class="dropdown">
                     <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
                         Dropdown <span class="caret"></span>
@@ -43,16 +43,34 @@
                 </div>
             </div>
         </div>
-        <div class="whitespace"></div>
-         <div id="image1">
+        
+        <div id="stripes" align="center">
+            <div class="first">
+                <img src="./images/first.jpg">
+                <div id="stripes" style="margin-top:0px" align="center">
+                    <div class="first">
+                        <img src="./images/second.jpg">
+                        <div id="stripes" style="margin-top:0px">
+                            <div class="first">
+                                <img src="./images/third.jpg">
+                                <div id="stripes" style="margin-top:0px">
+                                    <div class="first">
+                                        <img src="./images/forth.jpg">
+                                        <div id="stripes" style="margin-top:0px">
+                                            <div class="first">
+                                                <img src="./images/fifth.jpg">
+                                                <div id="stripes" style="margin-top:0px">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="whitespace"></div>
-        <div id="image2"></div>
-        <div class="whitespace"></div>
-        <div id="image3"></div>
-        <div class="whitespace"></div>
-        <div id="image4"></div>
-        <div class="whitespace"></div>
-        <div id="image5"></div>
     </body>
 </html>
+

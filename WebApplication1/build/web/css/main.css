@@ -1,0 +1,100 @@
+/* 
+    Document   : achievement
+    Created on : Oct 6, 2014, 11:51:19 PM
+    Author     : macus.khoo.2012
+    Description:
+        Purpose of the stylesheet follows.
+*/
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+
+#top {
+    height:80px;
+    background-color:grey;
+    margin-left:0px;
+    margin-top:0px;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+#title{
+    margin-left:200px;
+}
+.dropdown{
+    float:right;
+    margin-right:90px;
+    margin-top:20px;
+    padding-top:0px;
+    padding-bottom:0px
+}
+
+#homeRedirect{
+    float:left;
+    cusor:pointer;
+    background-image:url(../images/home.jpg);
+    height:50px;
+    width:50px;
+    margin-left:0px;
+    margin-top:10px;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+#image1{
+    background-image:url(../images/achievement1.jpg);
+    height:200px;
+}
+
+.whitespace{
+    height:20px;
+    background-color:grey;
+}
+
+#image2{
+    background-image:url(../images/achievement2.jpg);
+    height:200px;
+}
+
+#image3{
+    background-image:url(../images/achievement3.jpg);
+    height:200px;
+}
+
+#image4{
+    background-image:url(../images/achievement4.jpg);
+    height:200px;
+}
+
+#image5{
+    background-image:url(../images/achievement5.jpg);
+    height:200px;
+}
+
+#stripes{
+    background-image:url(../images/blackline.jpg);
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    height:5px;
+    padding-top:1px;
+}
+
+.first{
+    margin-top:15px;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    height:40px;
+    padding-bottom:20px;
+}
+
+.second{
+    margin-top:15px;
+    margin-left:5px;
+    width:500px;
+    height:40px;
+    padding-bottom:20px;
+}

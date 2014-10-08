@@ -8,10 +8,10 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color:grey;
+    background-color:white;
 }
 
-#achievementTop {
+#top {
     height:80px;
     background-color:grey;
     margin-left:0px;
@@ -72,4 +72,29 @@ html, body {
     height:200px;
 }
 
+#stripes{
+    background-image:url(../images/blackline.jpg);
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    height:5px;
+    padding-top:1px;
+}
 
+.first{
+    margin-top:15px;
+    margin-left:auto;
+    margin-right:auto;
+    width:500px;
+    height:40px;
+    padding-bottom:20px;
+}
+
+.second{
+    margin-top:15px;
+    margin-left:5px;
+    width:500px;
+    height:40px;
+    padding-bottom:20px;
+}
